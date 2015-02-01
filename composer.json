@@ -1,11 +1,11 @@
 {
-    "name":        "gbili/gbili-symlink-module",
-    "description": "Zend Framework 2 Module that provides view helpers",
+    "name":        "gbili/gbili-regex-patterns",
+    "description": "Zend Framework 2 Module that provides regex patterns application wide",
     "type":        "library",
     "license":     "MIT",
     "homepage":    "http://gbili.com",
     "keywords":    [
-        "view helper",
+        "regex patterns",
         "module",
         "zf2"
     ],
